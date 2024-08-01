@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smarthub", "Smarthub\Smarthub.csproj", "{82DB199D-0511-4043-A0EE-B296095DC01D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smarthub.API", "Smarthub.API\Smarthub.API.csproj", "{AE03E495-6B21-4305-9309-F13807A9101B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DB199D-0511-4043-A0EE-B296095DC01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DB199D-0511-4043-A0EE-B296095DC01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DB199D-0511-4043-A0EE-B296095DC01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DB199D-0511-4043-A0EE-B296095DC01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE03E495-6B21-4305-9309-F13807A9101B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE03E495-6B21-4305-9309-F13807A9101B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE03E495-6B21-4305-9309-F13807A9101B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE03E495-6B21-4305-9309-F13807A9101B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D1EBD9-4215-4E44-9939-B73BB717AAC9}
+	EndGlobalSection
+EndGlobal

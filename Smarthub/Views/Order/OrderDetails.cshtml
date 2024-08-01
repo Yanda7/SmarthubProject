@@ -1,0 +1,65 @@
+﻿@model Smarthub.ViewModels.OrderDTO
+
+<style>
+    .small-input {
+        width: 70px;
+    }
+</style>
+
+
+<a asp-action="AddOrderLine" asp-route-OrderId="@Model.OrderId" asp-controller="OrderLine">New Order Line</a>
+<hr/>
+@if (Model != null)
+{
+    <div>
+        <h5>Customer Name: @Model.CustomerName</h5>
+        <p><strong>Order Type:</strong> @Model.OrderType</p>
+        <p><strong>Order Number:</strong> @Model.OrderNumber</p>
+        <p><strong>Order Status:</strong> @Model.OrderStatus</p>
+        <p><strong>Order Number:</strong> @Model.OrderId</p>
+        <p><strong>Order Date:</strong> @Model.OrderDate.ToString("MM/dd/yyyy HH:mm")</p>
+        <p><strong>Created Date:</strong> @Model.OrderCreatedDate.ToString("MM/dd/yyyy HH:mm")</p>
+    </div><br/>
+
+   <h5>Order Lines</h5>
+    <table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Line Number</th>
+            <th>Product Code</th>
+            <th>Product Type</th>
+            <th>Product Cost Price</th>
+            <th>Product Sales Price</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody id="orderLines">
+        @if (Model.OrderLines!= null && Model.OrderLines.Any())
+        {
+            @foreach (var line in Model.OrderLines)
+            {
+                <tr>
+                    <td>@line.LineNumber</td>
+                    <td>@line.ProductCode</td>
+                    <td>@line.ProductType</td>
+                    <td>@line.ProductCostPrice</td>
+                    <td>@line.ProductSalesPrice</td>
+                    <td>@line.Quantity</td>
+                    <td>
+                        <a href="@Url.Action("EditOrderLine", "OrderLine", new { OrderLineId = line.OrderLineId })" class="btn btn-primary">Edit</a>
+                            <a href="@Url.Action("DeleteOrderLine", "OrderLine", new { OrderLineId = line.OrderLineId })" class="btn btn-warning">Remove</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7">No order lines available.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+       
+}

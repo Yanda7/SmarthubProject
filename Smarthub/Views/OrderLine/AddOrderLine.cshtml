@@ -1,0 +1,67 @@
+﻿@using static Smarthub.API.Models.Enums.Shared
+@model Smarthub.ViewModels.OrderLineDTO
+
+@{
+    ViewData["Title"] = "CreateOrderLine";
+}
+
+
+<h4>OrderLine</h4>
+<hr />
+<div class="card border-success">
+    <div class="card-body">
+        <form asp-action="AddOrderLine">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="OrderId" />
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label asp-for="LineNumber" class="control-label"></label>
+                    <input asp-for="LineNumber" class="form-control" />
+                    <span asp-validation-for="LineNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-4">
+                    <label asp-for="ProductCode" class="control-label"></label>
+                    <input asp-for="ProductCode" class="form-control" />
+                    <span asp-validation-for="ProductCode" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-4">
+                    <label asp-for="ProductType" class="control-label">Product Type</label>
+                    <div class="input-group mb-3">
+                        <select asp-for="ProductType" class="form-control" asp-items="Html.GetEnumSelectList<eProductType>()">
+                            <option selected="selected" disabled value="">Select Option</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label asp-for="ProductCostPrice" class="control-label"></label>
+                    <input asp-for="ProductCostPrice" class="form-control" />
+                    <span asp-validation-for="ProductCostPrice" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-4">
+                    <label asp-for="ProductSalesPrice" class="control-label"></label>
+                    <input asp-for="ProductSalesPrice" class="form-control" />
+                    <span asp-validation-for="ProductSalesPrice" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-4">
+                    <label asp-for="Quantity" class="control-label"></label>
+                    <input asp-for="Quantity" class="form-control" />
+                    <span asp-validation-for="Quantity" class="text-danger"></span>
+                </div>
+            </div>
+
+           
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Smarthub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Smarthub.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\CompanyLogo\\OrderLogo.png",
+      "PackagePath": "staticwebassets\\CompanyLogo\\OrderLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\css\\templatemo-kind-heart-charity.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\templatemo-kind-heart-charity.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\Metropolis\\Metropolis-Bold.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Metropolis\\Metropolis-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\Metropolis\\Metropolis-Bold.woff2",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Metropolis\\Metropolis-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\Metropolis\\Metropolis-Light.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Metropolis\\Metropolis-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\Metropolis\\Metropolis-Light.woff2",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Metropolis\\Metropolis-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\Metropolis\\Metropolis-Regular.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Metropolis\\Metropolis-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\Metropolis\\Metropolis-Regular.woff2",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Metropolis\\Metropolis-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\Metropolis\\Metropolis-SemiBold.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Metropolis\\Metropolis-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\Metropolis\\Metropolis-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Metropolis\\Metropolis-SemiBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\ForekPOE.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\ForekPOE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\avatar\\portrait-young-redhead-bearded-male.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\avatar\\portrait-young-redhead-bearded-male.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\causes\\group-african-kids-paying-attention-class.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\causes\\group-african-kids-paying-attention-class.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\icons\\hands.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\icons\\hands.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\icons\\heart.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\icons\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\icons\\receive.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\icons\\receive.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\icons\\scholarship.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\icons\\scholarship.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\logob-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\logob-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\news\\africa-humanitarian-aid-doctor.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\news\\africa-humanitarian-aid-doctor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\news\\close-up-happy-people-working-together.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\news\\close-up-happy-people-working-together.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\news\\medium-shot-people-collecting-foodstuff.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\news\\medium-shot-people-collecting-foodstuff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\slide\\medium-shot-people-collecting-donations.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\slide\\medium-shot-people-collecting-donations.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\slide\\volunteer-helping-with-donation-box.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\slide\\volunteer-helping-with-donation-box.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\js\\click-scroll.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\click-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\js\\counter.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\counter.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\Theme\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\js\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\config\\assets.config.mjs",
+      "PackagePath": "staticwebassets\\src\\config\\assets.config.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\config\\astro.config.mjs",
+      "PackagePath": "staticwebassets\\src\\config\\astro.config.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\config\\postcss.config.mjs",
+      "PackagePath": "staticwebassets\\src\\config\\postcss.config.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\config\\rollup.config.js",
+      "PackagePath": "staticwebassets\\src\\config\\rollup.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\src\\html\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\.prettierrc.js",
+      "PackagePath": "staticwebassets\\src\\html\\.prettierrc.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\.tsconfig.json",
+      "PackagePath": "staticwebassets\\src\\html\\.tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\_head.astro",
+      "PackagePath": "staticwebassets\\src\\html\\components\\_head.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\_scripts.astro",
+      "PackagePath": "staticwebassets\\src\\html\\components\\_scripts.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\dashboard\\_footer.astro",
+      "PackagePath": "staticwebassets\\src\\html\\components\\dashboard\\_footer.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\dashboard\\_sidenav.astro",
+      "PackagePath": "staticwebassets\\src\\html\\components\\dashboard\\_sidenav.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\dashboard\\_topbar.astro",
+      "PackagePath": "staticwebassets\\src\\html\\components\\dashboard\\_topbar.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\docs\\browser-support.mdx",
+      "PackagePath": "staticwebassets\\src\\html\\components\\docs\\browser-support.mdx"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\docs\\color-mode.mdx",
+      "PackagePath": "staticwebassets\\src\\html\\components\\docs\\color-mode.mdx"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\docs\\components\\main-header.mdx",
+      "PackagePath": "staticwebassets\\src\\html\\components\\docs\\components\\main-header.mdx"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\docs\\components\\main-sidebar.mdx",
+      "PackagePath": "staticwebassets\\src\\html\\components\\docs\\components\\main-sidebar.mdx"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\docs\\faq.mdx",
+      "PackagePath": "staticwebassets\\src\\html\\components\\docs\\faq.mdx"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\docs\\how-to-contribute.mdx",
+      "PackagePath": "staticwebassets\\src\\html\\components\\docs\\how-to-contribute.mdx"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\docs\\introduction.mdx",
+      "PackagePath": "staticwebassets\\src\\html\\components\\docs\\introduction.mdx"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\docs\\license.mdx",
+      "PackagePath": "staticwebassets\\src\\html\\components\\docs\\license.mdx"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\components\\javascript\\treeview.mdx",
+      "PackagePath": "staticwebassets\\src\\html\\components\\javascript\\treeview.mdx"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\env.d.ts",
+      "PackagePath": "staticwebassets\\src\\html\\env.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\UI\\general.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\UI\\general.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\UI\\timeline.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\UI\\timeline.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\browser-support.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\browser-support.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\color-mode.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\color-mode.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\components\\main-header.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\components\\main-header.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\components\\main-sidebar.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\components\\main-sidebar.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\faq.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\faq.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\how-to-contribute.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\how-to-contribute.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\introduction.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\introduction.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\javascript\\treeview.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\javascript\\treeview.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\layout.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\layout.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\docs\\license.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\docs\\license.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\examples\\lockscreen.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\examples\\lockscreen.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\examples\\login-v2.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\examples\\login-v2.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\examples\\login.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\examples\\login.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\examples\\register-v2.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\examples\\register-v2.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\examples\\register.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\examples\\register.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\forms\\general.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\forms\\general.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\index.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\index.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\index2.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\index2.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\index3.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\index3.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\layout\\collapsed-sidebar.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\layout\\collapsed-sidebar.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\layout\\fixed-complete.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\layout\\fixed-complete.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\layout\\fixed-sidebar.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\layout\\fixed-sidebar.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\layout\\layout-rtl.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\layout\\layout-rtl.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\layout\\logo-switch.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\layout\\logo-switch.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\layout\\sidebar-mini.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\layout\\sidebar-mini.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\layout\\unfixed-sidebar.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\layout\\unfixed-sidebar.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\tables\\simple.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\tables\\simple.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\widgets\\cards.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\widgets\\cards.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\widgets\\info-box.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\widgets\\info-box.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\html\\pages\\widgets\\small-box.astro",
+      "PackagePath": "staticwebassets\\src\\html\\pages\\widgets\\small-box.astro"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_app-content.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_app-content.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_app-footer.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_app-footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_app-header.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_app-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_app-main.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_app-main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_app-sidebar.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_app-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_app-wrapper.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_app-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_bootstrap-variables.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_bootstrap-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_callouts.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_callouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_cards.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_compact-mode.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_compact-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_direct-chat.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_direct-chat.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_docs.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_docs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_info-box.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_info-box.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_miscellaneous.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_miscellaneous.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_progress-bars.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_progress-bars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_small-box.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_small-box.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_table.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_timeline.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\adminlte.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\adminlte.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\mixins\\_animations.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\mixins\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\mixins\\_scrollbar.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\mixins\\_scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\pages\\_lockscreen.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\pages\\_lockscreen.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\pages\\_login_and_register.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\pages\\_login_and_register.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\parts\\_components.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\parts\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\parts\\_core.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\parts\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\parts\\_extra-components.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\parts\\_extra-components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\parts\\_miscellaneous.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\parts\\_miscellaneous.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\scss\\parts\\_pages.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\parts\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\ts\\adminlte.ts",
+      "PackagePath": "staticwebassets\\src\\ts\\adminlte.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\ts\\card-widget.ts",
+      "PackagePath": "staticwebassets\\src\\ts\\card-widget.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\ts\\direct-chat.ts",
+      "PackagePath": "staticwebassets\\src\\ts\\direct-chat.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\ts\\fullscreen.ts",
+      "PackagePath": "staticwebassets\\src\\ts\\fullscreen.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\ts\\layout.ts",
+      "PackagePath": "staticwebassets\\src\\ts\\layout.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\ts\\push-menu.ts",
+      "PackagePath": "staticwebassets\\src\\ts\\push-menu.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\ts\\treeview.ts",
+      "PackagePath": "staticwebassets\\src\\ts\\treeview.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\ts\\util\\index.ts",
+      "PackagePath": "staticwebassets\\src\\ts\\util\\index.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dell i7\\Source\\Repos\\Smarthub\\Smarthub\\wwwroot\\src\\utils\\index.js",
+      "PackagePath": "staticwebassets\\src\\utils\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Smarthub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Smarthub.props",
+      "PackagePath": "build\\Smarthub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Smarthub.props",
+      "PackagePath": "buildMultiTargeting\\Smarthub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Smarthub.props",
+      "PackagePath": "buildTransitive\\Smarthub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

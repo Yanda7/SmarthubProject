@@ -1,0 +1,70 @@
+﻿@using static Smarthub.API.Models.Enums.Shared
+@model Smarthub.ViewModels.OrderDTO
+
+@{
+    ViewData["Title"] = "ModifyOrder";
+}
+
+<h5>Modify Order</h5>
+<hr />
+<div class="form-container border border-success">
+    <h5 class="bg-success text-white p-2">Modify Order</h5>
+    <form asp-action="EditOrder">
+        <input type="hidden" asp-for="OrderId" />
+        <div class="row">
+            <div class="form-group col-md-4">
+                <label asp-for="OrderNumber" class="control-label"></label>
+                <input asp-for="OrderNumber" class="form-control" />
+                <span asp-validation-for="OrderNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label class="control-label">Order Type</label>
+                <div class="input-group mb-3">
+                    <select asp-for="OrderType" class="form-control" asp-items="Html.GetEnumSelectList<eOrderType>()">
+                        <option selected="selected" disabled value="">Select Option</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group col-md-4">
+                <label class="control-label">Order Status</label>
+                <div class="input-group mb-3">
+                    <select asp-for="OrderStatus" class="form-control" asp-items="Html.GetEnumSelectList<eOrderStatus>()">
+                        <option selected="selected" disabled value="">Select Option</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="OrderDate" class="control-label"></label>
+                <input asp-for="OrderDate" class="form-control datepicker" />
+                <span asp-validation-for="OrderDate" class="text-danger"></span>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+        <button type="reset" class="btn btn-primary">reset</button>
+    </form>
+</div>
+<br/>
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+            $(".datepicker").datepicker({
+                dateFormat: "mm/dd/yy",
+                changeMonth: true,
+                changeYear: true
+            });
+        });
+    </script>
+}

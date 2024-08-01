@@ -1,0 +1,48 @@
+﻿@model Smarthub.ViewModels.OrderLineDTO
+
+@{
+    ViewData["Title"] = "Order Line Details";
+}
+
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h1 class="card-title">Order Line Details</h1>
+        </div>
+        <div class="card-body">
+            <h4>Order Line</h4>
+            <hr />
+            <table class="table table-bordered">
+                <tbody>
+                    <tr>
+                        <th scope="row">@Html.DisplayNameFor(model => model.LineNumber)</th>
+                        <td>@Html.DisplayFor(model => model.LineNumber)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">@Html.DisplayNameFor(model => model.ProductCode)</th>
+                        <td>@Html.DisplayFor(model => model.ProductCode)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">@Html.DisplayNameFor(model => model.ProductType)</th>
+                        <td>@Html.DisplayFor(model => model.ProductType)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">@Html.DisplayNameFor(model => model.ProductCostPrice)</th>
+                        <td>@Html.DisplayFor(model => model.ProductCostPrice)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">@Html.DisplayNameFor(model => model.ProductSalesPrice)</th>
+                        <td>@Html.DisplayFor(model => model.ProductSalesPrice)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">@Html.DisplayNameFor(model => model.Quantity)</th>
+                        <td>@Html.DisplayFor(model => model.Quantity)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="card-footer">
+            <a class="btn btn-primary" asp-action="EditOrderLine" asp-route-OrderLineId="@Model?.OrderLineId">Edit</a>
+        </div>
+    </div>
+</div>

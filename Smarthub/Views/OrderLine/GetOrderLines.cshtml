@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Smarthub.ViewModels.OrderLineDTO>
+
+@{
+    ViewData["Title"] = "GetOrderLines";
+}
+
+<h1>GetOrderLines</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LineNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductCostPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductSalesPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LineNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductCostPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductSalesPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-OrderLineId="@item.OrderLineId">Edit</a> |
+                <a asp-action="Details" asp-route-OrderLineId="@item.OrderLineId">Details</a> |
+                <a asp-action="Delete" asp-route-OrderLineId="@item.OrderLineId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
